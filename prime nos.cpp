@@ -42,5 +42,6 @@ int main() {
     cout<<"n=";
     cin>>n;
     primeNo(n);
+    cout<<"yes";
     return 0;
 }
